@@ -54,8 +54,6 @@ In the future, we will implement the search functionalities and i also can integ
 
 
 
-##Backend( Deployed on render )
-https://spicy-hall.onrender.com/recipes
 
 ## Contributing
 
