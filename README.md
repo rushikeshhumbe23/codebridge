@@ -28,4 +28,5 @@
 <span>[![GitHub Profile](https://img.shields.io/badge/github-%230077B5.svg?logo=github&logoColor=white)](https://github.com/rushikeshhumbe23)</span>
 <span> [![Portfolio]()](https://rushikeshhumbe23.github.io/) </span>
 ## Do not forget to ⭐ the repo if you like it !!
-## Thank you for visting ❤️
+## Thank you 🙏 for visiting  
+
