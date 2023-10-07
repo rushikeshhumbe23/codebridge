@@ -7,8 +7,6 @@
 # Tech Stack
 
 <span float="left">
-    
-    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS76aVIo4u18ZBAVWU79QkDQ6uvKUjF4leJ7g&usqp=CAU" width="100" height="100">
    <img src="https://blog.logrocket.com/wp-content/uploads/2021/04/optimize-react-native-performance.png" width="100" height="100">   
    <img src="https://www.edureka.co/blog/wp-content/uploads/2019/07/express-logo.png" width="100" height="100">   
    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhrADC0_GAAWvRAFXn4VfRvpH0O4y61PO1QQ&usqp=CAU" width="100" height="100">   
