@@ -1,61 +1,33 @@
 # CODEBRIDGE(AI-code-converter)
+### Introducing a groundbreaking, all-in-one software solution that revolutionizes the way developers work! Our cutting-edge platform brings together the unparalleled capabilities of AI, seamlessly weaving together code conversion, debugging, and optimization functionalities, all tightly integrated with the remarkable intelligence of ChatGPT.
 
-## About us
-
- 
-
+# Deployed Link: https://codebridge2.vercel.app/
 
 
-### Live Demo and User Flow -
+# Tech Stack
 
-
-
-
-
-
-
-
-
-
-
-
-
-## Technologies Used
-
-#### Tech Stack-
-
-<p float="left">
-    <img src="https://cdn.pixabay.com/photo/2017/08/05/11/16/logo-2582748_640.png" width="100" height="100">
-    <img src="https://cdn.pixabay.com/photo/2017/08/05/11/16/logo-2582747_640.png" width="100" height="100">
+<span float="left">
+    
     <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS76aVIo4u18ZBAVWU79QkDQ6uvKUjF4leJ7g&usqp=CAU" width="100" height="100">
    <img src="https://blog.logrocket.com/wp-content/uploads/2021/04/optimize-react-native-performance.png" width="100" height="100">   
+   <img src="https://www.edureka.co/blog/wp-content/uploads/2019/07/express-logo.png" width="100" height="100">   
+   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhrADC0_GAAWvRAFXn4VfRvpH0O4y61PO1QQ&usqp=CAU" width="100" height="100">   
 <img src="https://jquery-plugins.net/image/plugin/chakra-ui-simple-modular-accessible-ui-components-for-react-applications.png"  height="100">
- </p>
+<img src="https://logowik.com/content/uploads/images/openai5002.jpg"  height="100">
+
+ </span>
 
 ## Functionalities associated with this website
 
-1. A user can register his account on the website.
-2. User can log in using credentials given during registration.
-3. User can search and access the recipes listed over the website.
-4. User can also add their own recipes if they want via add profile page and see their recipes.
-5. User can like any product if they want and dislike too.
-6. User can comment in recipes.
-7. User can access whole details of a recipe through single recipe page.
-8. User can save a recipe and access in future .
-9. Admin can block any user if they want.
-10. Admin can manage the recipes (CRUD operation).
+1. Developers can seamlessly convert code between different programming languages..
+2. The tool aids developers in pinpointing and fixing bugs by offering precise suggestions, error messages, and relevant debugging techniques tailored to the code and issue descriptions.
+3. Developers can optimize their code and check the quality of code.
+4. Project offers a versatile user experience with both dark and light themes, allowing users to seamlessly switch between visually comfortable modes
 
 
-
-
-## Future Planning
-
-In the future, we will implement the search functionalities and i also can integrate more categories and more cards , we can also integrate a user page with some options for the user to allow push notifications and see an overview of their progress. 
-
-
-
-
-## Contributing
-
-Contributions are always welcome!
-
+## 🌐 Socials:
+<span>[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rushikeshhumbe23) </span>
+<span>[![GitHub Profile](https://img.shields.io/badge/github-%230077B5.svg?logo=github&logoColor=white)](https://github.com/rushikeshhumbe23)</span>
+<span> [![Portfolio]()](https://rushikeshhumbe23.github.io/) </span>
+## Do not forget to ⭐ the repo if you like it !!
+## Thank you for visting ❤️
